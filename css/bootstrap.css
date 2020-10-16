@@ -36,8 +36,8 @@
   p,
   h2,
   h3 {
-    orphans: 3;
-    widows: 3;
+    orphans: 5;
+    widows: 7;
   }
   h2,
   h3 {
